@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [සිංහලෙන් ලිනක්ස්](README.md)
 * [ලිනක්ස්](undefined/README.md)
