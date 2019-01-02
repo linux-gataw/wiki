@@ -6,9 +6,9 @@ ubuntu වලට් debian repo දාන්න එපා family එක සම�
 
 මුලිනම් පහල තියෙන command line ටික terminal එකට් ඇතුලත කරන්න. \(Ctrl + C ; Shift + Ctrl + V \)
 
-`~# sudo echo"deb `[`http://http.kali.org/kali`](http://http.kali.org/kali)` kali-rolling main contrib non-free" > /etc/apt/sources.list.d/kali.list`
+`~# sudo echo"deb`[`http://http.kali.org/kali`](http://http.kali.org/kali)`kali-rolling main contrib non-free" > /etc/apt/sources.list.d/kali.list`
 
-`~# sudo echo"deb `[`http://ftp.debian.org/debian`](http://ftp.debian.org/debian)` stable main contrib non-free" > /etc/apt/sources.list.d/debian.list`
+`~# sudo echo"deb`[`http://ftp.debian.org/debian`](http://ftp.debian.org/debian)`stable main contrib non-free" > /etc/apt/sources.list.d/debian.list`
 
 ඔය command ඇතුලත් කලහම පහල තියෙන Err එක අවොත් ,
 

@@ -1,8 +1,10 @@
-Miroor server එකක් කියන්නේ server එකක තියෙන site හරි නැත්නුම files හරි copy කරල තියෙන server එකක් ඉතින් mirror server නිසා එකම  site එක  හරි files හරි  හුගක් තැන වලින් ගන්න පුලුවම් . Mirror server වලට එයාලටම  කියලා URL එකක් තියෙනවා.
+# Archive server testing
+
+Miroor server එකක් කියන්නේ server එකක තියෙන site හරි නැත්නුම files හරි copy කරල තියෙන server එකක් ඉතින් mirror server නිසා එකම site එක හරි files හරි හුගක් තැන වලින් ගන්න පුලුවම් . Mirror server වලට එයාලටම කියලා URL එකක් තියෙනවා.
 
 ~ [searchstorage.techtarget.com/definition/mirror](https://searchstorage.techtarget.com/definition/mirror)
 
-Linux users ලට software install කරන්න ඔනි repo host කරල තියෙන්නෙ  මෙන්න මෙ වගෙ mirrors ව්ල.
+Linux users ලට software install කරන්න ඔනි repo host කරල තියෙන්නෙ මෙන්න මෙ වගෙ mirrors ව්ල.
 
 Mirro server වලින් අපිට තියෙන වාසිය තම්යි එවා අපිට ලන් වෙන්තර්ම්ට අපිට එවා ව්ලින් files download කරන්න පුලුව්ම් වෙගෙ වෑඩිවෙන්ව.ඉතින් අපිට ලග mirrors ගොඩක තිබුනහම අපිට වෑඩිම වෙගයෙන download කරලන්න පුලුව්ම server එක හොයගන්න තියෙන හොඩම විඩිය තම ping කරල බලන එක.
 
@@ -246,9 +248,9 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 
 `#阿里云`
 
-`deb `[`http://mirrors.aliyun.com/kali`](http://mirrors.aliyun.com/kali)` kali-rolling main non-free contrib`
+`deb`[`http://mirrors.aliyun.com/kali`](http://mirrors.aliyun.com/kali)`kali-rolling main non-free contrib`
 
-`deb-src `[`http://mirrors.aliyun.com/kali`](http://mirrors.aliyun.com/kali)` kali-rolling main non-free contrib`
+`deb-src`[`http://mirrors.aliyun.com/kali`](http://mirrors.aliyun.com/kali)`kali-rolling main non-free contrib`
 
 `# This system was installed using small removable media`
 
@@ -259,8 +261,6 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 `# For information about how to configure apt package sources,`
 
 `# see the sources.list(5) manual.`
-
-
 
 +--------------------------------------------------------------------------------------------------------+
 
@@ -302,21 +302,21 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 
 `#deb cdrom:[Lubuntu 18.04 LTS _Bionic Beaver_ - Release amd64 (20180426)]/ bionic main multiverse restricted universe`
 
-`# See `[`http://help.ubuntu.com/community/UpgradeNotes`](http://help.ubuntu.com/community/UpgradeNotes)` for how to upgrade to`
+`# See`[`http://help.ubuntu.com/community/UpgradeNotes`](http://help.ubuntu.com/community/UpgradeNotes)`for how to upgrade to`
 
 `# newer versions of the distribution.`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic main restricted`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic main restricted`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic main restricted`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic main restricted`
 
 `## Major bug fix updates produced after the final release of the`
 
 `## distribution.`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-updates main restricted`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-updates main restricted`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-updates main restricted`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-updates main restricted`
 
 `## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu`
 
@@ -324,13 +324,13 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 
 `## review or updates from the Ubuntu security team.`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic universe`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic universe`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic universe`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic universe`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-updates universe`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-updates universe`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-updates universe`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-updates universe`
 
 `## N.B. software from this repository is ENTIRELY UNSUPPORTED by the Ubuntu`
 
@@ -342,13 +342,13 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 
 `## security team.`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic multiverse`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic multiverse`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic multiverse`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic multiverse`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-updates multiverse`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-updates multiverse`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-updates multiverse`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-updates multiverse`
 
 `## N.B. software from this repository may not have been tested as`
 
@@ -360,9 +360,9 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 
 `## or updates from the Ubuntu security team.`
 
-`deb `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-backports main restricted universe multiverse`
+`deb`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-backports main restricted universe multiverse`
 
-`# deb-src `[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)` bionic-backports main restricted universe multiverse`
+`# deb-src`[`http://lk.archive.ubuntu.com/ubuntu/`](http://lk.archive.ubuntu.com/ubuntu/)`bionic-backports main restricted universe multiverse`
 
 `## Uncomment the following two lines to add software from Canonical's`
 
@@ -372,23 +372,23 @@ Kali ව්ලට හොඩම තියෙන්නෙ China & Singapore ව්
 
 `## respective vendors as a service to Ubuntu users.`
 
-`# deb `[`http://archive.canonical.com/ubuntu`](http://archive.canonical.com/ubuntu)` bionic partner`
+`# deb`[`http://archive.canonical.com/ubuntu`](http://archive.canonical.com/ubuntu)`bionic partner`
 
-`# deb-src `[`http://archive.canonical.com/ubuntu`](http://archive.canonical.com/ubuntu)` bionic partner`
+`# deb-src`[`http://archive.canonical.com/ubuntu`](http://archive.canonical.com/ubuntu)`bionic partner`
 
-`deb `[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)` bionic-security main restricted`
+`deb`[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)`bionic-security main restricted`
 
-`# deb-src `[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)` bionic-security main restricted`
+`# deb-src`[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)`bionic-security main restricted`
 
-`deb `[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)` bionic-security universe`
+`deb`[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)`bionic-security universe`
 
-`# deb-src `[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)` bionic-security universe`
+`# deb-src`[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)`bionic-security universe`
 
-`deb `[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)` bionic-security multiverse`
+`deb`[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)`bionic-security multiverse`
 
-`# deb-src `[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)` bionic-security multiverse`
+`# deb-src`[`http://security.ubuntu.com/ubuntu`](http://security.ubuntu.com/ubuntu)`bionic-security multiverse`
 
-Ubuntu ව්ලට ලන්කවෙම mirror එකක් තියෙන්ව එක තමා ඔය උඩ ping කරලා තියෙන්නෙ .  හෑබෑයි Debian\[/Parrrotsec/Kali\] ව්ලට එහෙම mirror එකක් නෑ , ඉතින් කවුරු හරි ලන්කාවෙ Debian mirror එකක් host කරන්ව නම් හොඩයි. ඈත්තහටම එහෙම Debian mirror  එකක් හඩගන්න පුලුව්ම් උනොත් එක ලන්කවෙ එන්න Debian\[/Parrrotsec/Kali\] users ලා ලබපු ලොකු ජයක්ග්‍රහනයක්.
+Ubuntu ව්ලට ලන්කවෙම mirror එකක් තියෙන්ව එක තමා ඔය උඩ ping කරලා තියෙන්නෙ . හෑබෑයි Debian\[/Parrrotsec/Kali\] ව්ලට එහෙම mirror එකක් නෑ , ඉතින් කවුරු හරි ලන්කාවෙ Debian mirror එකක් host කරන්ව නම් හොඩයි. ඈත්තහටම එහෙම Debian mirror එකක් හඩගන්න පුලුව්ම් උනොත් එක ලන්කවෙ එන්න Debian\[/Parrrotsec/Kali\] users ලා ලබපු ලොකු ජයක්ග්‍රහනයක්.
 
 ~[Setting up a Debian archive mirror](https://www.debian.org/mirror/ftpmirror)
 
