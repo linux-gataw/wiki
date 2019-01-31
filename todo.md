@@ -50,25 +50,27 @@ xmonad
 
 Language ස්ථාපනය
 
+```
+C/C++
+
 Python
 
-	C/C++
+C\#
 
-	C\#
+Js
 
-	Js
+PHP
 
-	PHP
+MySQL
 
-	MySQL
+swift
 
-	swift
+Caml
 
-	Caml
+Ruby
 
-	Ruby
-
-	Perl
+Perl
+```
 
 IDE ස්ථාපනය
 
