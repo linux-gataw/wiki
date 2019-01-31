@@ -18,11 +18,13 @@ Fedora ස්ථාපනය
 
 package manager
 
-        pacman 	
+```
+pacman     
 
-	apt 	
+apt     
 
-	dnf
+dnf
+```
 
 Desktop environment customization
 
