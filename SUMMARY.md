@@ -26,4 +26,5 @@
 * [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
+* [Archive server testing](archive-server-testing.md)
 
