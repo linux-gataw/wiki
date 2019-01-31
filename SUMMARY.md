@@ -2,6 +2,7 @@
 
 * [ලිනක්ස් ගැටව් ](README.md)
 * [RoadMap](todo.md)
+* [විකිය වෙනස් කිරීමට](.md)
 * [ලිනක්ස්](undefined/README.md)
   * [ඉතිහාසය](undefined/undefined.md)
   * [තාක්ෂණික සහාය](undefined/undefined-1.md)
@@ -26,5 +27,5 @@
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
 * [Archive server testing](archive-server-testing.md)
-* [Android වැඩකාරයෝ](android.md)
+* විකිය වෙනස් කිරීමට
 
