@@ -14,6 +14,16 @@ Arch ස්ථාපනය
 
 Deepin ස්ථාපනය
 
+Fedora ස්ථාපනය
+
+package manager
+
+        pacman 	
+
+	apt 	
+
+	dnf
+
 Desktop environment customization
 
 ```
