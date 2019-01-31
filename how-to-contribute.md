@@ -1,10 +1,11 @@
 පළමුව අපගේ git repoව clone කරගන්න 
-
-    git clone https://github.com/linux-gataw/wiki.git
-                
+```bash
+git clone https://github.com/linux-gataw/wiki.git
+```                
 දෙවනුව gitbook-editor ස්ථාපනය කරගන්න                
-
-    sudo apt install gitbook-editor
+```bash
+sudo apt install gitbook-editor
+```
                 
 පසුව GitBook Editor > Open... ගොස් ඔබ clone කරන ලද repoව විවුර්ත කරගන්න
 ඔබට උවමනා contribution කරන්න 
