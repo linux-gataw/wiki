@@ -16,6 +16,8 @@ Deepin ස්ථාපනය
 
 Fedora ස්ථාපනය
 
+හෙලකුරු ස්ථාපනය
+
 package manager
 
 ```
