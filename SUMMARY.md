@@ -2,7 +2,7 @@
 
 * [ලිනක්ස් ගැටව් ](README.md)
 * [RoadMap](todo.md)
-* [විකිය වෙනස් කිරීමට](.md)
+* [විකිය වෙනස් කිරීමට](how-to-contribute.md)
 * [ලිනක්ස්](undefined/README.md)
   * [ඉතිහාසය](undefined/undefined.md)
   * [තාක්ෂණික සහාය](undefined/undefined-1.md)
