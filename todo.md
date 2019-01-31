@@ -48,12 +48,36 @@ Fluxbox
 xmonad
 ```
 
+Language ස්ථාපනය
+
+Python
+
+	C/C++
+
+	C\#
+
+	Js
+
+	PHP
+
+	MySQL
+
+	swift
+
+	Caml
+
+	Ruby
+
+	Perl
+
 IDE ස්ථාපනය
 
 ```
 Anjuta
 
 Avanlon Studio
+
+PyCharm
 
 Builder
 
@@ -64,6 +88,8 @@ edb
 Geany
 
 Glade
+
+Android Studio
 
 MonoDevelop
 
