@@ -14,7 +14,7 @@ Arch ස්ථාපනය
 
 Deepin ස්ථාපනය
 
-Desktop environment
+Desktop environment customization
 
 ```
 GNOM
@@ -28,7 +28,7 @@ LXQt
 MATE
 ```
 
-Window manager
+Window manager configuration
 
 ```
 i3
