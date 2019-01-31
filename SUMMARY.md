@@ -1,7 +1,7 @@
 # Summary
 
 * [සිංහලෙන් ලිනක්ස්](README.md)
-* [ToDo](todo.md)
+* [RoadMap](todo.md)
 * [ලිනක්ස්](undefined/README.md)
   * [ඉතිහාසය](undefined/undefined.md)
   * [තාක්ෂණික සහාය](undefined/undefined-1.md)
