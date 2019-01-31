@@ -11,7 +11,7 @@ sudo apt install gitbook-editor
 ```
 
 පසුව GitBook Editor &gt; Open... ගොස් ඔබ clone කරන ලද repoව විවුර්ත කරගන්න  
-ඔබට උවමනා contribution කරන්න   
+ඔබට උවමනා contribution කරන්න  
 අවසානයට save කොට Book &gt; Pull කරන්න
 
 ---
@@ -21,5 +21,7 @@ sudo apt install gitbook-editor
 * ඔබට හැකිනම් අපගේ RoadMap එකට අනුව contribute කරන්න 
 * Contribute කරීමේ දී ඔබට ගටලුව්ක් මතු වුවහොත facebook සමුහයේ එය පල කරන්න  
 
+\*\* ඔබට අපගේ repoව fork කොට ඔබ කැමති contribution සිදු කොට pull කරීමේ හැකියාවක් ද ඇත.
 
+**\[\#\]  අපගේ repoවට star දැමීමට අමතක නොකරන්න.  **
 
