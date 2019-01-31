@@ -2,9 +2,7 @@
 
 [![](https://4.bp.blogspot.com/-cnrw8Vzv5WM/UADsuuGQX_I/AAAAAAAABss/OWZHILFNiUk/s640/internet_dongle_360.jpg)](http://4.bp.blogspot.com/-cnrw8Vzv5WM/UADsuuGQX_I/AAAAAAAABss/OWZHILFNiUk/s1600/internet_dongle_360.jpg)
 
-  
-  
-අපි අතර සිටින බොහෝ පිරිසත් තම අන්තර්ජාල සම්බන්ධතාවය ලබාගන්නේ Dongle එකක් ආදාරයෙනි. එහෙයින් ඔබ Linux මෙහෙයුම් පද්ධතියක් බාවිත කිරීමට පැමිණියහොත් එය ක්‍රියාකරවා ගන්නා ආකාරය ගැන නෙදන්නවා විය හැකියි. වින්ඩොස් මෙහෙයුම් පද්ධති වලට සාපේක්ෂව Linux මෙහෙයුම් පද්ධති සදහා අතරව Drives Install කරදීමේ අවශ්‍යතාවයක් නොමැත. ඒ නිසාවෙන් මෙය සිදු කරලීම වඩාත් පහසුයි. මුලින්ම ඔබගේ Dongle එක Computer එකට Plug කර, Restart කරන්න. ඉන් පසුව පහත පියවර අනුගමනය කරන්න. 
+අපි අතර සිටින බොහෝ පිරිසත් තම අන්තර්ජාල සම්බන්ධතාවය ලබාගන්නේ Dongle එකක් ආදාරයෙනි. එහෙයින් ඔබ Linux මෙහෙයුම් පද්ධතියක් බාවිත කිරීමට පැමිණියහොත් එය ක්‍රියාකරවා ගන්නා ආකාරය ගැන නෙදන්නවා විය හැකියි. වින්ඩොස් මෙහෙයුම් පද්ධති වලට සාපේක්ෂව Linux මෙහෙයුම් පද්ධති සදහා අතරව Drives Install කරදීමේ අවශ්‍යතාවයක් නොමැත. ඒ නිසාවෙන් මෙය සිදු කරලීම වඩාත් පහසුයි. මුලින්ම ඔබගේ Dongle එක Computer එකට Plug කර, Restart කරන්න. ඉන් පසුව පහත පියවර අනුගමනය කරන්න.
 
 01\) ප්‍රතමයෙන්ම Status Bar එකහි තිබෙන Network Connection Status එක වෙතට පිවිසෙන්න. එය Click කිරීමෙන් ලැබෙන Menu එකෙහි Edit Connection මත Click කරන්න.
 
@@ -28,11 +26,11 @@
 
 [![](https://3.bp.blogspot.com/-7d8haCwrAg4/UADkhX5UbZI/AAAAAAAABsA/DfOE-7x9JfE/s640/5.png)](http://3.bp.blogspot.com/-7d8haCwrAg4/UADkhX5UbZI/AAAAAAAABsA/DfOE-7x9JfE/s1600/5.png)
 
- 07\) මෙදිහී ආදාලා Setting දැක ගැනීමට පුලුවන්. එහි තිබෙන Apply බට්න් එක ක්ලික් කරන Connection එක ස්ක්‍රීය කරගන්න.
+07\) මෙදිහී ආදාලා Setting දැක ගැනීමට පුලුවන්. එහි තිබෙන Apply බට්න් එක ක්ලික් කරන Connection එක ස්ක්‍රීය කරගන්න.
 
 [![](https://3.bp.blogspot.com/-YuIUtTnWU10/UADliqWLCdI/AAAAAAAABsI/ybRJ200zjIQ/s640/6.png)](http://3.bp.blogspot.com/-YuIUtTnWU10/UADliqWLCdI/AAAAAAAABsI/ybRJ200zjIQ/s1600/6.png)
 
-08\) මෙමදී Connect Automatically Trick එක යොදන්න, පසුව Save බට්න් එක ක්ලික් කරන්න. 
+08\) මෙමදී Connect Automatically Trick එක යොදන්න, පසුව Save බට්න් එක ක්ලික් කරන්න.
 
 [![](https://3.bp.blogspot.com/-M81YkKIhhPo/UADmiEDwLTI/AAAAAAAABsQ/TjTR7mdZgqY/s640/7.png)](http://3.bp.blogspot.com/-M81YkKIhhPo/UADmiEDwLTI/AAAAAAAABsQ/TjTR7mdZgqY/s1600/7.png)
 
@@ -40,11 +38,11 @@
 
 [![](https://4.bp.blogspot.com/-ge396qxXG48/UADnYeEnczI/AAAAAAAABsY/oWeVfAifYf8/s640/8.png)](http://4.bp.blogspot.com/-ge396qxXG48/UADnYeEnczI/AAAAAAAABsY/oWeVfAifYf8/s1600/8.png)
 
-10\) අප විසින් Connection එකට අදාලා ක්‍රියාවලි සිදු කරගෙන අවසන්, ඔබට දැන් තිබෙන්නේ Internet Connection එක Connect කරගැනීමට පමණයි. ඒ සදහා Status Bar එකේ තිබෙන Network Connection Status වෙත පිවිසෙන්න. එහිදී ඔබ විසින් සදාගත් Connection Name එක දැකගැනීහට පුලුවන්, එය Click කරන්න. එටින Internet හා සම්බන්ධ වීම සිදුවේ. 
+10\) අප විසින් Connection එකට අදාලා ක්‍රියාවලි සිදු කරගෙන අවසන්, ඔබට දැන් තිබෙන්නේ Internet Connection එක Connect කරගැනීමට පමණයි. ඒ සදහා Status Bar එකේ තිබෙන Network Connection Status වෙත පිවිසෙන්න. එහිදී ඔබ විසින් සදාගත් Connection Name එක දැකගැනීහට පුලුවන්, එය Click කරන්න. එටින Internet හා සම්බන්ධ වීම සිදුවේ.
 
 [![](https://1.bp.blogspot.com/-A5fW1RiTXgE/UADoxEjdfwI/AAAAAAAABsg/hZsEUYYaU40/s320/9.png)](http://1.bp.blogspot.com/-A5fW1RiTXgE/UADoxEjdfwI/AAAAAAAABsg/hZsEUYYaU40/s1600/9.png)
 
-මින් අනතුරුව මෙහි තිබෙන Web Browser ආදාරයෙන් අන්තර්ජාලය පරිශීලන කිරීමේ කැහැයාව ලැබෙනවා. Firefox Browser එක Open කරන අවැසි කටුයුතු ඉටු කරගන්න. බ්ලෝ එකට Help එකක් විදිහට Comment එකක් Follow පාරක්, Fan Page එකට Like එකක් දාලා යන්න අමතක කරන්න එපා. ස්තූතියි ! සුබ දවසක් 
+මින් අනතුරුව මෙහි තිබෙන Web Browser ආදාරයෙන් අන්තර්ජාලය පරිශීලන කිරීමේ කැහැයාව ලැබෙනවා. Firefox Browser එක Open කරන අවැසි කටුයුතු ඉටු කරගන්න. බ්ලෝ එකට Help එකක් විදිහට Comment එකක් Follow පාරක්, Fan Page එකට Like එකක් දාලා යන්න අමතක කරන්න එපා. ස්තූතියි ! සුබ දවසක්
 
 Posted 28th August 2014 by [Hasiya Rulz](https://plus.google.com/112407634492210501912)
 

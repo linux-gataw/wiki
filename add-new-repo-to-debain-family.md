@@ -9,6 +9,7 @@ ubuntu වලට් debian repo දාන්න එපා family එක සම�
 ```bash
 sudo echo"deb[http://http.kali.org/kali](http://http.kali.org/kali)kali-rolling main contrib non-free" &gt; /etc/apt/sources.list.d/kali.list
 ```
+
 ```bash
 sudo echo"deb[http://ftp.debian.org/debian](http://ftp.debian.org/debian)stable main contrib non-free" &gt; /etc/apt/sources.list.d/debian.list
 ```
@@ -24,6 +25,7 @@ bash: /etc/apt/sources.list.d/kali.list: Permission denied
 ```bash
 sudo nano /etc/apt/sources.list.d/kali.list
 ```
+
 ```bash
 sudo nano /etc/apt/sources.list.d/debian.list
 ```
@@ -51,12 +53,15 @@ sudo nano /etc/apt/sources.list.d/debian.list
 ```bash
 gpg --keyserver pgpkeys.mit.edu --recv-key 8B48AD6246925553 && gpg -a --export 8B48AD6246925553 \| sudo apt-key add -
 ```
+
 ```bash
 gpg --keyserver pgpkeys.mit.edu --recv-key 7638D0442B90D010 && gpg -a --export 7638D0442B90D010 \| sudo apt-key add -
 ```
+
 ```bash
 gpg --keyserver pgpkeys.mit.edu --recv-key EF0F382A1A7B6500 && gpg -a --export EF0F382A1A7B6500 \| sudo apt-key add -
 ```
+
 ```bash
 gpg --keyserver pgpkeys.mit.edu --recv-key ED444FF07D8D0BF6 && gpg -a --export ED444FF07D8D0BF6 \| sudo apt-key add -
 ```

@@ -1,6 +1,8 @@
+# RoadMap
+
 Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ
 
-```
+```text
 Boot Loader
 
 GPT ⇌ MBR Partition Table
@@ -20,7 +22,7 @@ Fedora ස්ථාපනය
 
 package manager
 
-```
+```text
 pacman     
 
 apt     
@@ -30,7 +32,7 @@ dnf
 
 Desktop environment customization
 
-```
+```text
 GNOM
 
 Xfce
@@ -44,7 +46,7 @@ MATE
 
 Window manager configuration
 
-```
+```text
 i3
 
 Awesome
@@ -64,7 +66,7 @@ xmonad
 
 Language ස්ථාපනය
 
-```
+```text
 C/C++
 
 Python
@@ -88,7 +90,7 @@ Perl
 
 IDE ස්ථාපනය
 
-```
+```text
 Anjuta
 
 Avanlon Studio
@@ -123,6 +125,4 @@ Unity
 
 VS Code
 ```
-
-
 

@@ -1,3 +1,5 @@
+# විකිය වෙනස් කිරීමට
+
 පළමුව අපගේ git repoව clone කරගන්න
 
 ```bash
@@ -11,10 +13,8 @@ sudo apt install gitbook-editor
 ```
 
 පසුව GitBook Editor &gt; Open... ගොස් ඔබ clone කරන ලද repoව විවුර්ත කරගන්න  
-ඔබට උවමනා contribution කරන්න   
+ඔබට උවමනා contribution කරන්න  
 අවසානයට save කොට Book &gt; Pull කරන්න
-
----
 
 සටහන :
 
@@ -23,7 +23,5 @@ sudo apt install gitbook-editor
 
 \*\* ඔබට අපගේ repoව fork කොට ඔබ කැමති contribution සිදු කොට pull කරීමේ හැකියාවක් ද ඇත.
 
-**\[\#\]  අපගේ repoවට star දැමීමට අමතක නොකරන්න.  **
-
-
+**\[\#\] අපගේ repoවට star දැමීමට අමතක නොකරන්න.** 
 
