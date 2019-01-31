@@ -4,5 +4,5 @@
 
 Repository : [https://github.com/linux-gataw/wiki.git](https://github.com/linux-gataw/wiki.git)
 
-Facebook group : [facebook.com/groups/484146498782618/ ](https://www.facebook.com/groups/484146498782618/)
+Facebook group : [facebook.com/groups/linux.gataw/](https://www.facebook.com/groups/linux.gataw/)
 
