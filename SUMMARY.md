@@ -22,8 +22,8 @@
 * [මූලික Linux විධාන - 02 කොටස](linux-02.md)
 * [මූලික Linux විධාන - 03 කොටස](linux-03.md)
 * [Realtime Singlish - Linux සදහා සිංහල Unicode Converter එකක්](realtime-singlish-linux-unicode-converter.md)
-* [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
 * [විකල්ප මෘදුකාංග](undefined-4.md)
+* [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
 

@@ -6,9 +6,9 @@ ubuntu වලට් debian repo දාන්න එපා family එක සම�
 
 මුලිනම් පහල තියෙන command line ටික terminal එකට් ඇතුලත කරන්න. \(Ctrl + C ; Shift + Ctrl + V \)
 
-`~# sudo echo"deb`[`http://http.kali.org/kali`](http://http.kali.org/kali)`kali-rolling main contrib non-free" > /etc/apt/sources.list.d/kali.list`
+sudo echo"deb[http://http.kali.org/kali](http://http.kali.org/kali)kali-rolling main contrib non-free" &gt; /etc/apt/sources.list.d/kali.list
 
-`~# sudo echo"deb`[`http://ftp.debian.org/debian`](http://ftp.debian.org/debian)`stable main contrib non-free" > /etc/apt/sources.list.d/debian.list`
+sudo echo"deb[http://ftp.debian.org/debian](http://ftp.debian.org/debian)stable main contrib non-free" &gt; /etc/apt/sources.list.d/debian.list
 
 ඔය command ඇතුලත් කලහම පහල තියෙන Err එක අවොත් ,
 
@@ -18,9 +18,9 @@ bash: /etc/apt/sources.list.d/kali.list: Permission denied
 
 පහල තියෙන command line ටික terminal එකට් ඇතුලත කරන්න. එතකොට් nano එකෙන් අදාල \*.list file එක open වේවි. එකට repo එක paste කරල save කරගන්න.
 
-`~# sudo nano /etc/apt/sources.list.d/kali.list`
+sudo nano /etc/apt/sources.list.d/kali.list
 
-`~# sudo nano /etc/apt/sources.list.d/debian.list`
+sudo nano /etc/apt/sources.list.d/debian.list
 
 ඉගව්ට් update කරන්න \(sudo apt update\). එතකොට් පහල E , W & N අවොත්,
 
@@ -42,13 +42,13 @@ bash: /etc/apt/sources.list.d/kali.list: Permission denied
 
 පහල තියෙන command line ටික terminal එකට් ඇතුලත කරන්න.
 
-`~# gpg --keyserver pgpkeys.mit.edu --recv-key 8B48AD6246925553 && gpg -a --export 8B48AD6246925553 | sudo apt-key add -`
+gpg --keyserver pgpkeys.mit.edu --recv-key 8B48AD6246925553 && gpg -a --export 8B48AD6246925553 \| sudo apt-key add -
 
-`~# gpg --keyserver pgpkeys.mit.edu --recv-key 7638D0442B90D010 && gpg -a --export 7638D0442B90D010 | sudo apt-key add -`
+gpg --keyserver pgpkeys.mit.edu --recv-key 7638D0442B90D010 && gpg -a --export 7638D0442B90D010 \| sudo apt-key add -
 
-`~# gpg --keyserver pgpkeys.mit.edu --recv-key EF0F382A1A7B6500 && gpg -a --export EF0F382A1A7B6500 | sudo apt-key add -`
+gpg --keyserver pgpkeys.mit.edu --recv-key EF0F382A1A7B6500 && gpg -a --export EF0F382A1A7B6500 \| sudo apt-key add -
 
-`~# gpg --keyserver pgpkeys.mit.edu --recv-key ED444FF07D8D0BF6 && gpg -a --export ED444FF07D8D0BF6 | sudo apt-key add -`
+gpg --keyserver pgpkeys.mit.edu --recv-key ED444FF07D8D0BF6 && gpg -a --export ED444FF07D8D0BF6 \| sudo apt-key add -
 
 අතිම්ට් upgrade කරන්න \(sudo apt dist-upgrade\)
 
