@@ -1,76 +1,86 @@
-Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ 
+Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ
 
-        Boot Loader
+```
+Boot Loader
 
-  	GPT ⇌ MBR Partition Table
+GPT ⇌ MBR Partition Table
 
-	Dynamic ⇌ Basic Disk
+Dynamic ⇌ Basic Disk
+```
 
-Debian ස්ථාපනය 
+Debian ස්ථාපනය
 
-Arch ස්ථාපනය 
+Arch ස්ථාපනය
 
-Deepin ස්ථාපනය 
+Deepin ස්ථාපනය
 
 Desktop environment
 
-	GNOM
+```
+GNOM
 
-	Xfce
+Xfce
 
-	KDE
+KDE
 
-	LXQt
+LXQt
 
-	MATE
+MATE
+```
 
 Window manager
 
-	i3
+```
+i3
 
-	Awesome
+Awesome
 
-	dwm		
+dwm        
 
-	Qtile
+Qtile
 
-	Openbox
+Openbox
 
-	JWM
+JWM
 
-	Fluxbox
+Fluxbox
 
-	xmonad
+xmonad
+```
 
 IDE ස්ථාපනය
 
-	Anjuta
+```
+Anjuta
 
-	Avanlon Studio
+Avanlon Studio
 
-	Builder
+Builder
 
-	Code::Blocks IDE
+Code::Blocks IDE
 
-	edb
+edb
 
-	Geany
+Geany
 
-	Glade
+Glade
 
-	MonoDevelop
+MonoDevelop
 
-	NetBeans
+NetBeans
 
-	Ocaml
+Ocaml
 
-	Qt 5 Designer
+Qt 5 Designer
 
-	Qt Creator
+Qt Creator
 
-	SQLite 
+SQLite 
 
-	Unity
+Unity
 
-	VS Code
+VS Code
+```
+
+
 
