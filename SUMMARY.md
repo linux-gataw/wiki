@@ -26,5 +26,4 @@
 * [විකල්ප මෘදුකාංග](undefined-4.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
-* [විකිය වෙනස් කිරීමට](.md)
 
