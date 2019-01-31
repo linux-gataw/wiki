@@ -1,6 +1,6 @@
 # Summary
 
-* [සිංහලෙන් ලිනක්ස්](README.md)
+* [ලිනක්ස් ගැටව් ](README.md)
 * [RoadMap](todo.md)
 * [ලිනක්ස්](undefined/README.md)
   * [ඉතිහාසය](undefined/undefined.md)
