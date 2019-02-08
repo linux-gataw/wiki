@@ -16,6 +16,9 @@
 * [උබුන්ටු install ක්රාන්නේ මෙහෙමයි](untitled.md)
 * [පරිගණකයට Ubuntu Install කරගැනීම !](ubuntu-install/README.md)
   * [දැනුමට යමක්](ubuntu-install/undefined.md)
+* [Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ](linux-1/README.md)
+  * [Boot Loder](linux-1/boot-loder/README.md)
+    * [unable to mount root fs on unknown-block\(0 0\)](linux-1/boot-loder/unable-to-mount-root-fs-on-unknown-block-0-0.md)
 * [Ubuntu, Fedora මෙහෙයුම් පද්ධති සදහා Dongle එක Connect කරගනිමු](ubuntu-fedora-dongle-connect.md)
 * [Linux Directory Structure / File System Structure ගැන ඉගෙනගනිමු.](linux-directory-structure-file-system-structure-..md)
 * [මූලික Linux විධාන - 01 කොටස](linux-01.md)
@@ -27,4 +30,6 @@
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
 * [Archive server testing](archive-server-testing.md)
+
+## Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ
 
