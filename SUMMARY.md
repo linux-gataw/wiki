@@ -31,5 +31,5 @@
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
 * [Archive server testing](archive-server-testing.md)
 
-## Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ
+
 
