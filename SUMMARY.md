@@ -13,7 +13,12 @@
 * [\[slideshow\] Introduction to Linux for bioinformatics](slideshow.md)
 * [ආරම්භක සඳහා හොඳම ලිනක්ස් බෙදා හැරීම්](undefined-2.md)
 * [උබුන්ටු යනු](undefined-3.md)
-* [උබුන්ටු install ක්රාන්නේ මෙහෙමයි](untitled.md)
+* [Linux ස්ථාපනය කරන්නේ මෙහෙමයි](linux/README.md)
+  * [Deepin](linux/deepin.md)
+  * [Dedian](linux/dedian.md)
+  * [Manjaro](linux/manjaro.md)
+  * [Ubuntu](linux/ubuntu.md)
+  * [උබුන්ටු install ක්රාන්නේ මෙහෙමයි](linux/untitled.md)
 * [පරිගණකයට Ubuntu Install කරගැනීම !](ubuntu-install/README.md)
   * [දැනුමට යමක්](ubuntu-install/undefined.md)
 * [Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ](linux-1/README.md)
@@ -31,5 +36,5 @@
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
 * [Archive server testing](archive-server-testing.md)
 
-
+## How to install
 
