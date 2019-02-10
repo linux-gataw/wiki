@@ -58,5 +58,6 @@
 
 **වැරදි අඩුපාඩු තියනවනම් කියන්න. මේවගේම තවත් ලිපියකින් මුණගැහෙමු. ලිපිය කියෙව්වට ස්තුතියි. මේ ලිපිය යාළුවන් අතර බෙදාගන්න අමතක කරන්න එපා. Written With ❤️ By -**[**Sameera Madhushan**](https://www.facebook.com/sameera.madushan.1422409?fref=mentions&ref=bookmarks&_ft_=qid.6523917095120763046%3Amf_story_key.1523437484438394%3Atop_level_post_id.1523437484438394%3Atl_objid.1523437484438394%3Asrc.22)**- a.k.a άλφα Χ**
 
-[https://ia601501.us.archive.org/23/items/Realtime\_Singlish/10000000\_256972751699953\_5773631194776983067\_n.mp4](https://ia601501.us.archive.org/23/items/Realtime_Singlish/10000000_256972751699953_5773631194776983067_n.mp4)
+[https://vimeo.com/user94933354/review/316450812/39906cc0b9]
+{% embed url="https://vimeo.com/user94933354/review/316450812/39906cc0b9" %}
 
