@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [ලිනක්ස් ගැටව්](README.md)
 * [RoadMap](todo.md)
@@ -35,7 +35,5 @@
 * [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
-* tut4videos
-
-## How to install
+* [tut4videos](tut4videos-1.md)
 
