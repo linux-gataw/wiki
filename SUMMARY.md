@@ -12,7 +12,6 @@
 * [ලිනක්ස් බෙදාහැරීම්](undefined-1.md)
 * [\[slideshow\] Introduction to Linux for bioinformatics](slideshow.md)
 * [ආරම්භක සඳහා හොඳම ලිනක්ස් බෙදා හැරීම්](undefined-2.md)
-* [tut4videos](tut4videos.md)
 * [උබුන්ටු යනු](undefined-3.md)
 * [Linux ස්ථාපනය කරන්නේ මෙහෙමයි](linux/README.md)
   * [Deepin](linux/deepin.md)
@@ -35,5 +34,4 @@
 * [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
-* [tut4videos](tut4videos-1.md)
 
