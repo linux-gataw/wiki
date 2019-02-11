@@ -29,3 +29,7 @@ sudo apt install gitbook-editor
 
 **\[\#\] අපගේ repoවට star දැමීමට අමතක නොකරන්න.** 
 
+{% embed url="https://vimeo.com/316467986" %}
+
+\*\*\*\*
+
