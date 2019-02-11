@@ -14,6 +14,7 @@
 * [ආරම්භක සඳහා හොඳම ලිනක්ස් බෙදා හැරීම්](undefined-2.md)
 * [උබුන්ටු යනු](undefined-3.md)
 * [Linux ස්ථාපනය කරන්නේ මෙහෙමයි](linux/README.md)
+  * [Mint](linux/mint.md)
   * [Deepin](linux/deepin.md)
   * [Dedian](linux/dedian.md)
   * [Manjaro](linux/manjaro.md)
