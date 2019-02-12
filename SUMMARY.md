@@ -11,6 +11,7 @@
     * [දැනුමට යමක්](undefined/undefined-2/undefined.md)
 * [ලිනක්ස් බෙදාහැරීම්](undefined-1.md)
 * [\[slideshow\] Introduction to Linux for bioinformatics](slideshow.md)
+* [Windows vs Linux](windows-vs-linux.md)
 * [ආරම්භක සඳහා හොඳම ලිනක්ස් බෙදා හැරීම්](undefined-2.md)
 * [උබුන්ටු යනු](undefined-3.md)
 * [Linux ස්ථාපනය කරන්නේ මෙහෙමයි](linux/README.md)
