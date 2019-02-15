@@ -35,6 +35,7 @@
 * [Realtime Singlish - Linux සදහා සිංහල Unicode Converter එකක්](realtime-singlish-linux-unicode-converter.md)
 * [විකල්ප මෘදුකාංග](undefined-4.md)
 * [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
+* [How to Change Grub Theme](how-to-change-grub-theme.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
 
