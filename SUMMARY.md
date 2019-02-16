@@ -39,4 +39,6 @@
 * [How to Change Grub Theme](how-to-change-grub-theme.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
-* [pyqt with qt-designer](pyqt-getting-started-with-pyqt-and-qt-designer.md)
+* [Coding]
+  * [Python]
+    * [pyqt with qt-designer](pyqt-getting-started-with-pyqt-and-qt-designer.md)
