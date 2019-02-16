@@ -2,13 +2,13 @@
 
 `sudo apt install python-qt4 pyqt4-dev-tools qt4-designer`
 
-install කරගත්තු tools ටික හරියට වද කියලා බලමු.
+install කරගත්තු tools ටික හරියට වැඩ කියලා බලමු.
 
 `pyuic4`
 
 > Error: one inputui-file must be specified
 
-එකතකොට ඔයාට “command not found” කියලා අවොත් ඔයා install කරගත්තු tools ට්ක හරියට වැඩකරන්වා.
+එකත  කොට ඔයාට “command not found” කියලා අවොත් ඔයා install කරගත්තු tools ට්ක හරියට වැඩ කරන්වා.
 
 Desing
 
@@ -20,7 +20,7 @@ Desing
 
 එක පාරක් form එකෙ size එක අපිට ඔනි විදියට වෙනස් කරගත්තම අපි auto හැදුනු menu එක අයිකරන්න ඔනි.
 
-අපිට ඔනි කරන objects ටික එකේ දකුනු පැත්තේ කෙලින් අතට තියෙන්වා "ObjectInspector" එක යටතේ. ඔයාටපුලුව්ම්objectස්අයින්කරන්නඔබ්ජෙට්එක උඩරියිට්කිලික්කරලාඩෙලිටඑකෙන් ,ඔනින්ම්ඩිලිටබාට්න්එකෙන්පුලුවම්.
+අපිට ඔනි කරන objects ටික එකේ දකුනු පැත්තේ කෙලින් අතට තියෙන්වා "ObjectInspector" එක යටතේ. ඔයාට පුලුව්ම් objects අයින් කරන්න object උඩ right click කරලා delet එකෙන් ,ඔනින් delete dutton එකෙන් පුලුවම්.
 
 දැන්  Main Form එකෙ size එක වෙනස් කරලා menu එක delete කරගන්න.
 
