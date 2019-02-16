@@ -30,5 +30,13 @@ Qt Designer එකෙ "Widget Box" එකෙ "List Widget" එකෙන්  “P
 
 ## Layouts
 
+මේ විදයට button එකක්  drag දාල  කරලා size එක වෙනස් කරලා මේවිදියට හදාගන්න . දැන් "View" එකේ "Previem" එක තෝරලා මේවගේපෙන්නවා ද කියලා බලන්න : 
+
+![](/assets/import0.png)
+
+දැන් පොඩ්ඩක් බලන්න window එකේ size එක වෙනස් කරලා , එතකොට මේ වගේ ද?
+
+![](/assets/import01.png)
+
 
 
