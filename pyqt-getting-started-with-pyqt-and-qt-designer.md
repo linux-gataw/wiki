@@ -46,9 +46,11 @@ Main Window එකට Layout එකක් කොහ්මත් එනවා එ
 
 අපි vertical layout දැන්මහම එකකට දාන objects ඔකොම තියෙන්නේ vertical oder එකකට . ඔයාට පුලුවම් ඔයා කැමති විදියට layout එකතු කරලා ඔයා කැමති විදියට හදාගන්න. නිකන් පල්ලේහා  එක වගේ.
 
-![](/assets/import05.png) 
+![](/assets/import05.png)
 
 ## Finishing Touches
 
+....
 
+source :: [https://nikolak.com/pyqt-qt-designer-getting-started/](https://nikolak.com/pyqt-qt-designer-getting-started/)
 
