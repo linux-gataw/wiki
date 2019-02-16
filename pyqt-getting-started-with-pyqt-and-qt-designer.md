@@ -38,5 +38,5 @@ Qt Designer එකෙ "Widget Box" එකෙ "List Widget" එකෙන්  “P
 
 ඔබ්ජෙච්ට්ස් ටික ඒ විදියටම තියෙනවා ඒ වුනාට main form එකේ size එක වෙනස් වෙනවා නේ ද? මේක හදාගන්න පුලුවම් ද? ඔව් පුලුවම් එකට ඔයා  ලය layout එකක් පාවිච්චි කරන්න ඕනි. ඕකට සමාන්නයෙන් කියන්නේ layout එකක් දානවා කියලා.
 
-Main Window එකට Layout එකක් කොහ්මත් එනවා එක නිසා අපිට අමුතුවෙන් එකක් දන්න ඕනි නැ . Main Window එක උඩ right click කරලා "Object Inspector" එකෙන්  .ඕනි නම් හිස් තැනක රයිට් ච්ලිච්ක් කරලා ඒ ඔප්තිඔන් එකම තෝරන්නත් පුලුවම් මේ වගේ : 
+Main Window එකට Layout එකක් කොහ්මත් එනවා එක නිසා අපිට අමුතුවෙන් එකක් දන්න ඕනි නැ . Main Window එක උඩ right click කරලා "Object Inspector" එකෙන් "Layout">"Lay out vertically" .ඕනි නම් හිස් තැනක right click කරලා ඒ option එකම තෝරන්නත් පුලුවම් මේ වගේ : 
 
