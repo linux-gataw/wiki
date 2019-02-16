@@ -30,7 +30,7 @@ Qt Designer එකෙ "Widget Box" එකෙ "List Widget" එකෙන්  “P
 
 ## Layouts
 
-මේ විදයට button එකක්  drag දාල  කරලා size එක වෙනස් කරලා මේවිදියට හදාගන්න . දැන් "View" එකේ "Previem" එක තෝරලා මේවගේපෙන්නවා ද කියලා බලන්න : 
+මේ විදයට button එකක්  drag දාල  කරලා size එක වෙනස් කරලා මේවිදියට හදාගන්න . දැන් "View" එකේ "Previem" එක තෝරලා මේවගේපෙන්නවා ද කියලා බලන්න :
 
 ![](/assets/import0.png)
 
@@ -38,5 +38,5 @@ Qt Designer එකෙ "Widget Box" එකෙ "List Widget" එකෙන්  “P
 
 ![](/assets/import01.png)
 
-
+ඔබ්ජෙච්ට්ස් ටික ඒ විදියටම තියෙනවා ඒ වුනාට main form එකේ size එක වෙනස් වෙනවා නේ ද? මේක හදාගන්න පුලුවම් ද? ඔව් පුලුවම් එකට ඔයා  ලය layout එකක් පාවිච්චි කරන්න ඕනි. 
 
