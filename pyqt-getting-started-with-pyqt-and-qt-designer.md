@@ -42,5 +42,13 @@ Main Window එකට Layout එකක් කොහ්මත් එනවා එ
 
 ![](/assets/import04.png)
 
-gagagagaga
+ඔයාගේ objects එකම oder එකට තියෙනවා ඔයාගේ layout එක වෙනස් උනත් , එවුනට එක ඔයාට කැමති තැනකට brag and drop කරන්න බැ.
+
+අපි vertical layout දැන්මහම එකකට දාන objects ඔකොම තියෙන්නේ vertical oder එකකට . ඔයාට පුලුවම් ඔයා කැමති විදියට layout එකතු කරලා ඔයා කැමති විදියට හදාගන්න. නිකන් පල්ලේහා  එක වගේ.
+
+![](/assets/import05.png) 
+
+## Finishing Touches
+
+
 
