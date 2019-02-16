@@ -40,7 +40,7 @@ Qt Designer එකෙ "Widget Box" එකෙ "List Widget" එකෙන්  “P
 
 Main Window එකට Layout එකක් කොහ්මත් එනවා එක නිසා අපිට අමුතුවෙන් එකක් දන්න ඕනි නැ . Main Window එක උඩ right click කරලා "Object Inspector" එකෙන් "Layout"&gt;"Lay out vertically" .ඕනි නම් හිස් තැනක right click කරලා ඒ option එකම තෝරන්නත් පුලුවම් මේ වගේ :
 
-![](/assets/import03.png)
+![](/assets/import04.png)
 
-
+gagagagaga
 
