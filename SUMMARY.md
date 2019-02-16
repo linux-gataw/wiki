@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [ලිනක්ස් ගැටව්](README.md)
 * [RoadMap](todo.md)
@@ -27,6 +27,7 @@
 * [Linux ස්ථාපනයේ දී ඇතිවන ගැටලූ](linux-1/README.md)
   * [Boot Loder](linux-1/boot-loder/README.md)
     * [unable to mount root fs on unknown-block\(0 0\)](linux-1/boot-loder/unable-to-mount-root-fs-on-unknown-block-0-0.md)
+* [About Arch](about-arch.md)
 * [Ubuntu, Fedora මෙහෙයුම් පද්ධති සදහා Dongle එක Connect කරගනිමු](ubuntu-fedora-dongle-connect.md)
 * [Linux Directory Structure / File System Structure ගැන ඉගෙනගනිමු.](linux-directory-structure-file-system-structure-..md)
 * [මූලික Linux විධාන - 01 කොටස](linux-01.md)
