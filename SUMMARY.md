@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [ලිනක්ස් ගැටව්](README.md)
 * [RoadMap](todo.md)
@@ -28,6 +28,7 @@
   * [Boot Loder](linux-1/boot-loder/README.md)
     * [unable to mount root fs on unknown-block\(0 0\)](linux-1/boot-loder/unable-to-mount-root-fs-on-unknown-block-0-0.md)
 * [About Arch](about-arch.md)
+* [How to config manjaro i3 easily](how-to-config-manjaro-i3-easily.md)
 * [Ubuntu, Fedora මෙහෙයුම් පද්ධති සදහා Dongle එක Connect කරගනිමු](ubuntu-fedora-dongle-connect.md)
 * [Linux Directory Structure / File System Structure ගැන ඉගෙනගනිමු.](linux-directory-structure-file-system-structure-..md)
 * [මූලික Linux විධාන - 01 කොටස](linux-01.md)
@@ -39,6 +40,7 @@
 * [How to Change Grub Theme](how-to-change-grub-theme.md)
 * [\[Book\] ලාංකිකයන් සදහා උබුන්ටු](more-infor.md)
 * [Add new repo to debain family](add-new-repo-to-debain-family.md)
-* [Coding]
-  * [Python]
-    * [pyqt with qt-designer](pyqt-getting-started-with-pyqt-and-qt-designer.md)
+* [\[Coding\]](coding/README.md)
+  * [\[Python\]](coding/python/README.md)
+    * [pyqt with qt-designer](coding/python/pyqt-getting-started-with-pyqt-and-qt-designer.md)
+

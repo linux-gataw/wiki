@@ -1,3 +1,5 @@
+# About Arch
+
 ✍️කලින් ලිපියන් පස්සෙ කිහිප දෙනෙක් කිව්ව Arch Linux ගැන කතා කරන්න කියල. ඉතිං මේ ලිපියෙන් මම කතා කරන්නෙ ඒ ගැන. Arch තමා මම කැමතිම distro එක. වැඩිම කාලයක් පාවිච්චි කරපු එකත් කියල.මේකෙන් දැනගන්න පුලුවන් වෙයි ඒ ඇයි කියල. ඉසෙල්ලෙම බලමු Arch කියන්නෙ මොකද්ද කියල.
 
 ✍️Arch Linux කියන්නෙ Crux Linux inspired කරගෙන Independently Develop කරපු linux distribution එකක්. ඒ කියන්නෙ ඔයාල දන්නවනෙ ජයප්‍රිය ගොඩක් ලින්ක්ස් distro නිර්මාණය වෙලා තියෙන්නෙ වෙන distro එකක් පදනම් කරගෙන. උදාහරණයක් විදිහට ubuntu නිර්මාණය වෙන්නෙ debian පදනම් කරගෙන, linux mint නිර්මාණය වෙන්නෙ ubuntu පදනම් කරගෙන, තව ඔයාල ගොඩක් දන්න kali linux නිර්මාණය වෙන්නෙත් debian පදන්ම් කරගෙන. හැබැයි මේ Arch Linux නිර්මාණය වෙන්න්නෙ තනියෙන්. ඒ කියන්නෙ linux kernel එක අරගෙන මුල ඉදන්ම අලුතින්ම නිර්මාණ්‍ය කරපු distro එකක්. ඒ කියන්නෙ Arch Linux කාගෙවත් මත යැපෙන්නෙ නෑ.
@@ -78,5 +80,5 @@ Arco Linux
 
 [\#MickyBro](https://www.facebook.com/hashtag/mickybro?source=feed_text&epa=HASHTAG)
 
-![](/assets/import.png)
+![](.gitbook/assets/import.png)
 
