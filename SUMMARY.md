@@ -34,6 +34,8 @@
 * [මූලික Linux විධාන - 01 කොටස](linux-01.md)
 * [මූලික Linux විධාන - 02 කොටස](linux-02.md)
 * [මූලික Linux විධාන - 03 කොටස](linux-03.md)
+* [Linux commands ඉගෙන ගමු.](linux-commands.md)
+* [Linux commands ඉගෙන ගමු  - 2 \(CTF Style එකට\)](linux-commands-2-ctf-style.md)
 * [Realtime Singlish - Linux සදහා සිංහල Unicode Converter එකක්](realtime-singlish-linux-unicode-converter.md)
 * [විකල්ප මෘදුකාංග](undefined-4.md)
 * [How to install fcitx-sayura](how-to-install-fcitx-sayura.md)
@@ -44,6 +46,4 @@
   * [\[Python\]](coding/python/README.md)
     * [pyqt with qt-designer](coding/python/pyqt-getting-started-with-pyqt-and-qt-designer.md)
 * [Widane Forums](https://www.widane.com/forum-61.html)
-* [Linux commands ඉගෙන ගමු.](linux-commands.md)
-* [Linux commands ඉගෙන ගමු  - 2 \(CTF Style එකට\)](linux-commands-2-ctf-style.md)
 
