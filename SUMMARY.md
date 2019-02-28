@@ -43,4 +43,5 @@
 * [\[Coding\]](coding/README.md)
   * [\[Python\]](coding/python/README.md)
     * [pyqt with qt-designer](coding/python/pyqt-getting-started-with-pyqt-and-qt-designer.md)
+* [Widane Forums](https://www.widane.com/forum-61.html)
 
