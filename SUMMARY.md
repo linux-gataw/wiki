@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [ලිනක්ස් ගැටව්](README.md)
 * [RoadMap](todo.md)
@@ -44,4 +44,5 @@
   * [\[Python\]](coding/python/README.md)
     * [pyqt with qt-designer](coding/python/pyqt-getting-started-with-pyqt-and-qt-designer.md)
 * [Widane Forums](https://www.widane.com/forum-61.html)
+* [Linux commands ඉගෙන ගමු.](linux-commands.md)
 
