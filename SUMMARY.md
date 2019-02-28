@@ -45,4 +45,5 @@
     * [pyqt with qt-designer](coding/python/pyqt-getting-started-with-pyqt-and-qt-designer.md)
 * [Widane Forums](https://www.widane.com/forum-61.html)
 * [Linux commands ඉගෙන ගමු.](linux-commands.md)
+* [Linux commands ඉගෙන ගමු  - 2 \(CTF Style එකට\)](linux-commands-2-ctf-style.md)
 
